@@ -1,0 +1,12 @@
+*
+!*/
+!*.c
+!*.cpp
+!*.h
+!*.py
+!*.md
+!Makefile
+!common.mk
+!.git*
+!*.sh
+!*.deb
